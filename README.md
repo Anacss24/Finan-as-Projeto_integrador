@@ -3,7 +3,7 @@
 
 # 💻 Finanças  
 
-Projeto integrador de um site de finanças
+Projeto integrador de um site de controle de finanças
 
 
 ## 🚀 Pré-Requisitos 
