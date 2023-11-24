@@ -21,7 +21,7 @@ Software necessários para a instalação:
 
 ### Clonar o projeto
 ```
-git clone http://10.6.43.209:3000/Estagiarios/Sistema_de_Login.git   
+git clone https://github.com/Anacss24/Financas-Projeto_integrador.git 
 ```
 ### Entrar no diretório criado 
 ```
