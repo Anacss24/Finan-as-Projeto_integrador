@@ -14,6 +14,7 @@ Software necessários para a instalação:
  <li>PHP 7.1 ou superior</li>
  <li>Composer</li>
  <li>MySql</li>
+ <li>WampServer</li>
 </ul>
 
 ## 🔧 Instalação
