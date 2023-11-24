@@ -25,7 +25,7 @@ git clone https://github.com/Anacss24/Financas-Projeto_integrador.git
 ```
 ### Entrar no diretório criado 
 ```
-cd Sistema_de_Login
+cd Financas-Projeto_integrador
 ```
 ### Instalar as dependências do projeto
 ```
