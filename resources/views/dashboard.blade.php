@@ -6,7 +6,7 @@
             <div class="p-6 text-black dark:text-black text-lg">
             {{ "Hello, " . Auth::user()->name }}<br>
             {{ __("Bem-Vindo!") }}<br><br>
-                <a type="button" style="color: black; border:2px solid white; border-radius:10px; padding:20px; font-weight:600" href="http://localhost/conversor/conversor.php">Conversor de Moedas</a>
+                <a type="button" style="color: black; border:2px solid white; border-radius:10px; padding:20px; font-weight:600" href="http://127.0.0.1:8000/conversor">Conversor de Moedas</a>
             </div>
             
 </div>
