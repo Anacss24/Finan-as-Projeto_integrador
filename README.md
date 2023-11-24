@@ -1,10 +1,7 @@
 
-
-
 # 💻 Finanças  
 
-Projeto integrador de um site de controle de finanças
-
+Projeto integrador de um site de controle de finanças.
 
 ## 🚀 Pré-Requisitos 
 
@@ -67,8 +64,12 @@ npm run dev
 ```
 php artisan serve
 ```
+### Desenvolvedores
+  [<img src="https://avatars.githubusercontent.com/u/101267392?s=100" /><br /><sub>@Anacss24</sub>](https://github.com/Anacss24) 
+  
+  [<img src="https://avatars.githubusercontent.com/u/150391010?s=100" /><br /><sub>@felipenassil</sub>](https://github.com/felipenassil) 
  
- 
+
 
 
 
